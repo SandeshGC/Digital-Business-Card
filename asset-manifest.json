@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SandeshGC/Digital-Business-Card/static/css/main.b373858a.css",
+    "main.js": "/SandeshGC/Digital-Business-Card/static/js/main.34333f8f.js",
+    "static/media/UserImage.jpg": "/SandeshGC/Digital-Business-Card/static/media/UserImage.526fdc6d9385baaade3d.jpg",
+    "static/media/linkedin.svg": "/SandeshGC/Digital-Business-Card/static/media/linkedin.629bf92ee99b6aa01a5c2869b2d41378.svg",
+    "index.html": "/SandeshGC/Digital-Business-Card/index.html",
+    "static/media/mail.svg": "/SandeshGC/Digital-Business-Card/static/media/mail.341d1e767b26e2540702fb63676d4501.svg",
+    "main.b373858a.css.map": "/SandeshGC/Digital-Business-Card/static/css/main.b373858a.css.map",
+    "main.34333f8f.js.map": "/SandeshGC/Digital-Business-Card/static/js/main.34333f8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b373858a.css",
+    "static/js/main.34333f8f.js"
+  ]
+}
