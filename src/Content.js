@@ -8,11 +8,11 @@ function Content() {
       <h3>About</h3>
       <p>
         I am a frontend web developer who is always looking for new things to
-        learn. Besides , I am a Computer Engineering student at IOE
+        learn. Besides, I am a Computer Engineering student at IOE
         Pashchimanchal Campus, Pokhara.
       </p>
       <h3>Interests</h3>
-      <p>Coding, Travelling, Swimming, Music, TV.</p>
+      <p>Coding, Travelling, Swimming, Music, TV, Games.</p>
     </div>
   );
 }
